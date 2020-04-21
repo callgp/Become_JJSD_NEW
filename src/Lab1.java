@@ -9,6 +9,7 @@ public class Lab1 {
 		System.out.println("min is"+findMin(numbers));
 		System.out.println("min is"+findMax(numbers));
 		System.out.println("avg is"+findAvg(numbers));
+		System.out.println("04212020 at 5 pm");
 	}
 
 	private static int findAvg(int[] numbers) {
